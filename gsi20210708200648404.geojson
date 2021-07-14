@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大福寺",
+        "description": "布袋尊",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.549987,
+          34.829904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "摩訶耶寺",
+        "description": "大黒尊天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.550682,
+          34.82581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長楽寺",
+        "description": "寿老尊天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.667274,
+          34.82853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岩水寺",
+        "description": "福禄寿尊天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.791836,
+          34.846626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴨江寺",
+        "description": "弁財尊寺",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.718615,
+          34.701034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "遠州信貴山",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.737181,
+          34.740388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "応賀寺",
+        "description": "恵比寿神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.551081,
+          34.70567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長楽寺",
+        "description": "寿老尊天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.639271,
+          34.813066
+        ]
+      }
+    }
+  ]
+}
